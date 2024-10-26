@@ -1,4 +1,4 @@
-NER using spacy and Data Visualization for Time Series
+NER using spacy and Data Visualization for Time Series:
 
 Here showed collected data from different data sources(web scraping).
 
